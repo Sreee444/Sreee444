@@ -156,21 +156,7 @@ Achievement Unlocked:
 
 </div>
 
-## 🔥 Contribution Details
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sreee444&theme=tokyonight" />
-</p>
-
-## ⏰ Productive Time & Commit Stats
-
-<div align="center">
-
-![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sreee444\&theme=tokyonight)
-
-![Commits](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sreee444\&theme=tokyonight)
-
-</div>
 
 ## 📊 GitHub Profile Summary
 
