@@ -43,8 +43,8 @@ Sreenandhu Jacy
 $ location
 India
 
-$ occupation
-Building Things That Matter
+$ status
+Learning, Building, Improving
 
 $ hobbies
 Building projects
