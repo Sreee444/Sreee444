@@ -8,7 +8,7 @@
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+Enthusiast;Open+Source+Contributor;Always+Learning+New+Things" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&center=true&vCenter=true&width=800&lines=Full+Stack+Developer+from+India;Building+Products+That+Matter;Exploring+AI+and+Modern+Web+Tech;Turning+Ambitious+Ideas+Into+Reality" />
 </p>
 
 <p align="center">
@@ -68,15 +68,7 @@ Turning ambitious ideas into working software,
 one commit at a time.
 ```
 
-
-
-<p align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
-</p>
-
-
+---
 
 ## 🛠️ Tech Stack
 
@@ -112,43 +104,27 @@ one commit at a time.
 
 ## 📈 GitHub Streak Stats
 
-<div align="center">
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sreee444\&theme=tokyonight\&hide_border=true)
-
-</div>
-
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sreee444&theme=tokyonight&hide_border=true"/>
+</p>
 
 
 ## 📊 GitHub Profile Summary
 
-<div align="center">
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sreee444&theme=tokyonight"/>
+</p>
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sreee444&theme=tokyonight" alt="Profile Summary"/>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sreee444&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sreee444&theme=tokyonight&utcOffset=5.5"/>
+</p>
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sreee444&theme=tokyonight" alt="Repos per Language"/>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sreee444&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sreee444&theme=tokyonight"/>
+</p>
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sreee444&theme=tokyonight" alt="Most Commit Language"/>
-
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sreee444&theme=tokyonight" alt="Stats"/>
-
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sreee444&theme=tokyonight&utcOffset=5.5" alt="Productive Time"/>
-
-</div>
-
-<!--
-Themes Available:
-tokyonight
-radical
-gruvbox
-dracula
-synthwave
-nightowl
-github_dark
-nord
-gotham
-highcontrast
--->
 
 
 ---
@@ -168,37 +144,35 @@ highcontrast
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="90%" />
 </div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
-</div>
 
 
 ---
 
----
 
 <p align="center">
   ⭐ <i>Turning ambitious ideas into working software, one commit at a time.</i>
 </p>
 
-<br>
+---
 
-<h3 align="center">👋 Thanks for stopping by</h3>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="180">
+</p>
 
+
+<h3 align="center">👋 End of README, Not the End of the Journey</h3>
 
 <p align="center">
   Feel free to explore my repositories and connect with me!
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="250" />
+ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=58A6FF&center=true&vCenter=true&width=600&lines=%24+git+commit+-m+%22See+you+next+time%22;%24+git+push+origin+main;Happy+Coding!" />
 </p>
 
-<p align="center">
-  🚀 Happy Coding!
-</p>
+
 
 
