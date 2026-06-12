@@ -1,10 +1,7 @@
 <!--Banner-->
-![Kiran1689 Banner Image](./banner.png)
-
-<!--Night Owl image-->
-<div>
-  ![image](https://user-images.githubusercontent.com/61057666/169029838-74df663d-2e62-4d77-bdff-b43f7d63f00f.png)
-</div>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/61057666/169029838-74df663d-2e62-4d77-bdff-b43f7d63f00f.png" alt="Banner" />
+</p>
 
 <!--Header Name-->
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ Sreenandhu! 
