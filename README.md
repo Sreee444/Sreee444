@@ -106,37 +106,7 @@ one commit at a time.
 
 </div>
 
-## 🎮 Developer Character Sheet
 
-```yaml
-Name: Sreenandhu Jacy
-Class: Full Stack Developer
-Level: 21
-
-HP: ██████████ 100%
-MP: ████████░░ 80%
-
-Main Weapon: VS Code
-Companion: GitHub
-Power Source: Motivation
-
-Skills:
-  React:        █████████░ 90%
-  Next.js:      ████████░░ 80%
-  Node.js:      ████████░░ 80%
-  TypeScript:   ███████░░░ 70%
-  Python:       ███████░░░ 70%
-  Flutter:      ██████░░░░ 60%
-
-Current Quest:
-  - Master System Design
-  - Explore AI Agents
-  - Contribute to Open Source
-  - Build Amazing Products
-
-Achievement Unlocked:
-  ✔ Turning ideas into software
-```
 
 
 
