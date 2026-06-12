@@ -148,14 +148,6 @@ Achievement Unlocked:
 
 </div>
 
-## 📊 Activity Graph
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sreee444\&theme=tokyo-night\&hide_border=true\&area=true)
-
-</div>
-
 
 
 ## 📊 GitHub Profile Summary
